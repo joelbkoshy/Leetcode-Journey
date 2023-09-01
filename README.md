@@ -12,9 +12,9 @@ Feel free to explore my solutions and offer feedback or collaborate on new probl
 
 ## Repository Structure
 
-- **[Problem Solutions](./problems):** Contains my solutions to various LeetCode problems.
-- **[Explanations](./explanations):** Detailed explanations for the solutions.
-- **[Challenges](./challenges):** Challenges and goals I set for myself.
-- **[Resources](./resources):** Helpful resources and references.
+-  Contains my solutions to various LeetCode problems.
+-  Detailed explanations for the solutions.
+-  Challenges and goals I set for myself.
+-  Helpful resources and references.
 
 Happy coding!
